@@ -1,0 +1,81 @@
+.collection-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hotelImage{
+    height:210px;
+    width: 300px;
+    float: left;
+}
+.specificHotelImage {
+    height:55%;
+    width: 100%;
+}
+
+.hotleldetails{
+    padding: 10px;
+}
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin : 16px 19px;
+  }
+
+.material-icons {
+    cursor: pointer;
+    margin-right: 5px;
+    margin-left : 20px;
+}
+
+.alignment {
+    padding: 13px 26px;
+}
+
+p.title:hover{
+    color: blueviolet;
+}
+p.title{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 20px;
+}
+p.address{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 15px;
+}
+p.rating{
+    color: green
+}
+
+.display{
+display: flex;
+}
+
+li{
+    list-style-type: none
+}
+.cardSize , .card-img-top{
+    width:288px;
+
+}
+.horizontalListStyle{
+    display: inline-block;
+    padding: 3% 4%;
+    width:33%;
+    border: 1px solid #e0e0e0;
+}
+.roomtype-img{
+    width:250px;
+    height:250px;
+}
+
+select{
+    display: flex !important;
+}
+.error {
+    color : red
+  }

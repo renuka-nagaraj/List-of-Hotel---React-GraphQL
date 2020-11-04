@@ -1,0 +1,91 @@
+
+#query
+
+/*Get list of hotels and tariff details*/
+
+{
+    hotels{
+    id
+    name
+    address
+    email
+    images
+    rating
+    phone
+    country
+    pincode      
+    tariffDetails{
+      id
+      roomType
+      tariff
+      hotelid
+      image
+    }
+  }
+
+}
+-----------------------------------------------------------------------------------------------------
+
+/*Get particular hotel details*/
+
+{
+    hotel(id: 4){
+    id
+    name
+    address
+    email
+    images
+    rating
+    phone
+    country
+    pincode 
+    amenities{
+      id
+      hotelid
+      wifi
+      roomService
+      laundry
+      locker
+      swimmingPool
+      giftShops      
+    }    
+    tariff{
+      id
+      roomType
+      tariff
+      hotelid
+      image
+    }
+    review{
+      id
+      hotelId
+      reviewer
+      rating
+      comments
+    }
+  }
+
+}
+-------------------------------------------------------------------------------------------------------
+/*Review based on HotelID*/
+
+{
+  review(hotelId:4){
+    id
+    hotelId
+    rating
+    reviewer
+    comments
+  }
+}
+----------------------------------------------------------------------------------------------------
+#mutation
+
+/*Create hotel*/
+
+mutation AddHotel($name : String! , $address : String! , $phone : String! , $email : String! , $country : String! , $pincode : String! , $images : String!){
+  addHotel(name: $name , address: $address , phone: $phone , email : $email , country : $country , pincode : $pincode , images : $images) {
+    name
+    address
+  }
+}

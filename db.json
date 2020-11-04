@@ -1,0 +1,365 @@
+{
+  "hotels": [
+    {
+      "id": 4,
+      "name": "Lela Palace",
+      "address": "66, Residency Rd, Ashok Nagar",
+      "rating": 4.6,
+      "phone": "080 6660 4545",
+      "email": "reservations@tajvinatahotels.com",
+      "country": "India",
+      "pincode": "560025",
+      "latitude": 12.9533,
+      "longitude": 77.4987,
+      "checkIn": "From 2:00 PM",
+      "checkOut": "Prior to 12:00 PM",
+      "images": "https://lh5.googleusercontent.com/p/AF1QipOUCtR7LQ8Z0xBUu3yPZSgw8OcGgMVcQZGLpX42=w592-h404-n-k-no-v1"
+    },
+    {
+      "id": 5,
+      "name": "Taj MG Road Bengaluru",
+      "address": "41/3, Mahatma Gandhi Rd, Yellappa Garden",
+      "rating": 4.3,
+      "phone": "080 6660 4444",
+      "email": "reservations.mgroad@tajhotels.com",
+      "country": "India",
+      "pincode": "560001",
+      "latitude": 12.9733,
+      "longitude": 77.6197,
+      "checkIn": "From 1:00 PM",
+      "checkOut": "Prior to 12:00 PM",
+      "images": "https://q-xx.bstatic.com/xdata/images/hotel/max500/173377799.jpg?k=8054e074350c2ad0ecf34a94b3e569157d777b4d2d1cac44c1572fac2e0f6f1e&o="
+    },
+    {
+      "id": 6,
+      "name": "The Chancery Pavilion",
+      "address": "#135, Residency Rd, Shanthala Nagar, Ashok Nagar",
+      "rating": 4.8,
+      "phone": "080 4141 4141",
+      "email": "reservations.tcp@chanceryhotels.com",
+      "country": "India",
+      "pincode": "560025",
+      "latitude": 12.966,
+      "longitude": 77.5987,
+      "checkIn": "From 3:00 PM",
+      "checkOut": "Prior to 1:00 PM",
+      "images": "https://q-xx.bstatic.com/xdata/images/hotel/max500/269478120.jpg?k=5f18dd848aa3d95d634c5e0a45d73bb385b8f038ff2f1b8ed5b2bcb0ba59aa39&o="
+    },
+    {
+      "id": 7,
+      "name": "Vivanta Bengaluru Residency Road",
+      "address": "66, Residency Rd, Ashok Nagar",
+      "rating": 4.6,
+      "phone": "080 6660 4545",
+      "email": "reservations@tajvinatahotels.com",
+      "country": "India",
+      "pincode": "560025",
+      "latitude": 12.9533,
+      "longitude": 77.4987,
+      "checkIn": "From 2:00 PM",
+      "checkOut": "Prior to 12:00 PM",
+      "images": "https://pix6.agoda.net/hotelImages/70669/-1/b41ef6d9212eb8c0b6bf21040687ee54.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Taj Yeshwantpur Bengaluru",
+      "address": "2275, Tumkur Main Rd, Yeshwanthpur Industrial Area, Phase 1",
+      "rating": 4.3,
+      "phone": "080 6690 0111",
+      "email": "yeshwantpur.bengaluru@tajhotels.com",
+      "country": "India",
+      "pincode": "560022",
+      "latitude": 12.4933,
+      "longitude": 77.3987,
+      "checkIn": "From 2:00 PM",
+      "checkOut": "Prior to 12:00 PM",
+      "images": "https://q-xx.bstatic.com/xdata/images/hotel/max500/269270364.jpg?k=d6d0784312379d38fe20a9722d108d1b629caffa4426f954cc4b2047be66e95c&o="
+    },
+    {
+      "id": 10,
+      "name": "Lemon tree",
+      "address": "2275, Tumkur Main Rd, Yeshwanthpur Industrial Area, Phase 1",
+      "rating": 4.3,
+      "phone": "080 6690 0111",
+      "email": "yeshwantpur.bengaluru@tajhotels.com",
+      "country": "India",
+      "pincode": "560022",
+      "latitude": 12.4933,
+      "longitude": 77.3987,
+      "checkIn": "From 2:00 PM",
+      "checkOut": "Prior to 12:00 PM",
+      "images": "https://lh5.googleusercontent.com/p/AF1QipOUCtR7LQ8Z0xBUu3yPZSgw8OcGgMVcQZGLpX42=w592-h404-n-k-no-v1"
+    },
+    {
+      "name": "Lemeridian",
+      "address": "coimbatore",
+      "phone": "1234567890",
+      "email": "meridian@gmail.com",
+      "country": "india",
+      "pincode": "123445",
+      "images": "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_930,h_550/http://www.onepointinfo.com/wp-content/uploads/2018/09/le-meridian.jpg",
+      "id": 11
+    },
+    {
+      "name": "Holiday Inn",
+      "address": "Bangalore",
+      "phone": "1234596787",
+      "email": "holidayin@gmail.com",
+      "country": "india",
+      "pincode": "231431",
+      "images": "https://ewscripps.brightspotcdn.com/dims4/default/82d9f2b/2147483647/strip/true/crop/1060x596+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Ff7%2Ff9%2Ffdd6b93d4cdeaaa97b10998d838e%2Fholiday-inn.jpg",
+      "id": 12
+    },
+    {
+      "name": "Fortune Kenses",
+      "address": "Tirupathi",
+      "phone": "1234567890",
+      "email": "fortune@gmail.com",
+      "country": "india",
+      "pincode": "12345",
+      "images": "https://www.fortunehotels.in/hotel-image/banners/otherbanner/fortune-select-grand-ridge-tirupati20165241341.jpg",
+      "id": 13
+    }
+  ],
+  "tariffDetails": [
+    {
+      "id": 1,
+      "hotelid": 7,
+      "roomType": "Deluxe",
+      "tariff": 12000,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1575454897/Hotel/00000732/5M1A5703_[HDTV_(1080)]_aFb58R.jpg"
+    },
+    {
+      "id": 2,
+      "hotelid": 7,
+      "roomType": "Executive",
+      "tariff": 15000,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1575454791/Hotel/00000732/5M1A5799_[HDTV_(1080)]_xI9ZRO.jpg"
+    },
+    {
+      "id": 3,
+      "hotelid": 7,
+      "roomType": "Business Suite",
+      "tariff": 22000,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1575454791/Hotel/00000732/5M1A5799_[HDTV_(1080)]_xI9ZRO.jpg"
+    },
+    {
+      "id": 4,
+      "hotelid": 8,
+      "roomType": "Deluxe",
+      "tariff": 11966,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1575454897/Hotel/00000732/5M1A5703_[HDTV_(1080)]_aFb58R.jpg"
+    },
+    {
+      "id": 5,
+      "hotelid": 8,
+      "roomType": "Executive Pool Facing",
+      "tariff": 14996,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1545908408/Hotel/New Delhi/00000732/Untitled-1_KsQLOH.jpg"
+    },
+    {
+      "id": 6,
+      "hotelid": 8,
+      "roomType": "Business Suite",
+      "tariff": 21985,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1575454791/Hotel/00000732/5M1A5799_[HDTV_(1080)]_xI9ZRO.jpg"
+    },
+    {
+      "id": 7,
+      "hotelid": 10,
+      "roomType": "Deluxe",
+      "tariff": 12500,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1575454897/Hotel/00000732/5M1A5703_[HDTV_(1080)]_aFb58R.jpg"
+    },
+    {
+      "id": 8,
+      "hotelid": 10,
+      "roomType": "Executive Pool Facing",
+      "tariff": 16000,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1545908408/Hotel/New Delhi/00000732/Untitled-1_KsQLOH.jpg"
+    },
+    {
+      "id": 9,
+      "hotelid": 10,
+      "roomType": "Business Suite",
+      "tariff": 21985,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1575454791/Hotel/00000732/5M1A5799_[HDTV_(1080)]_xI9ZRO.jpg"
+    },
+    {
+      "id": 10,
+      "hotelid": 4,
+      "roomType": "Deluxe",
+      "tariff": 11966,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1575454897/Hotel/00000732/5M1A5703_[HDTV_(1080)]_aFb58R.jpg"
+    },
+    {
+      "id": 11,
+      "hotelid": 4,
+      "roomType": "Executive Pool Facing",
+      "tariff": 14996,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1545908408/Hotel/New Delhi/00000732/Untitled-1_KsQLOH.jpg"
+    },
+    {
+      "id": 12,
+      "hotelid": 4,
+      "roomType": "Business Suite",
+      "tariff": 21985,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1575454791/Hotel/00000732/5M1A5799_[HDTV_(1080)]_xI9ZRO.jpg"
+    },
+    {
+      "id": 13,
+      "hotelid": 5,
+      "roomType": "Deluxe",
+      "tariff": 11966,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1575454897/Hotel/00000732/5M1A5703_[HDTV_(1080)]_aFb58R.jpg"
+    },
+    {
+      "id": 14,
+      "hotelid": 5,
+      "roomType": "Executive Pool Facing",
+      "tariff": 17996,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1545908408/Hotel/New Delhi/00000732/Untitled-1_KsQLOH.jpg"
+    },
+    {
+      "id": 15,
+      "hotelid": 5,
+      "roomType": "Business Suite",
+      "tariff": 23785,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1575454791/Hotel/00000732/5M1A5799_[HDTV_(1080)]_xI9ZRO.jpg"
+    },
+    {
+      "id": 16,
+      "hotelid": 6,
+      "roomType": "Deluxe",
+      "tariff": 12968,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1575454897/Hotel/00000732/5M1A5703_[HDTV_(1080)]_aFb58R.jpg"
+    },
+    {
+      "id": 17,
+      "hotelid": 6,
+      "roomType": "Executive Pool Facing",
+      "tariff": 14996,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1545908408/Hotel/New Delhi/00000732/Untitled-1_KsQLOH.jpg"
+    },
+    {
+      "id": 18,
+      "hotelid": 6,
+      "roomType": "Business Suite",
+      "tariff": 21985,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_srplist/v1575454791/Hotel/00000732/5M1A5799_[HDTV_(1080)]_xI9ZRO.jpg"
+    }
+  ],
+  "amentiesDetails": [
+    {
+      "id": 1,
+      "hotelid": 7,
+      "wifi": true,
+      "roomService": true,
+      "laundry": true,
+      "locker": true,
+      "swimmingPool": true,
+      "giftShops": false
+    },
+    {
+      "id": 2,
+      "hotelid": 8,
+      "wifi": true,
+      "roomService": true,
+      "laundry": true,
+      "locker": false,
+      "swimmingPool": true,
+      "giftShops": false
+    },
+    {
+      "id": 3,
+      "hotelid": 10,
+      "wifi": true,
+      "roomService": true,
+      "laundry": true,
+      "locker": false,
+      "swimmingPool": true,
+      "giftShops": true
+    },
+    {
+      "id": 4,
+      "hotelid": 4,
+      "wifi": true,
+      "roomService": true,
+      "laundry": true,
+      "locker": true,
+      "swimmingPool": true,
+      "giftShops": false
+    },
+    {
+      "id": 5,
+      "hotelid": 5,
+      "wifi": true,
+      "roomService": true,
+      "laundry": true,
+      "locker": false,
+      "swimmingPool": true,
+      "giftShops": false
+    },
+    {
+      "id": 6,
+      "hotelid": 6,
+      "wifi": true,
+      "roomService": true,
+      "laundry": true,
+      "locker": true,
+      "swimmingPool": true,
+      "giftShops": true
+    }
+  ],
+  "reviewDetails": [
+    {
+      "id": 1,
+      "hotelId": 7,
+      "reviewer": "Oliver",
+      "rating": 4.6,
+      "comments": "Great welcoming staff"
+    },
+    {
+      "id": 2,
+      "hotelId": 8,
+      "reviewer": "Jack",
+      "rating": 4.4,
+      "comments": "Clean Swimming Pool"
+    },
+    {
+      "id": 3,
+      "hotelId": 10,
+      "reviewer": "Noah",
+      "rating": 4.7,
+      "comments": "Great restaurant"
+    },
+    {
+      "id": 4,
+      "hotelId": 6,
+      "reviewer": "Thomas",
+      "rating": 4.4,
+      "comments": "Nice Garden"
+    },
+    {
+      "id": 5,
+      "hotelId": 5,
+      "reviewer": "Lucas",
+      "rating": 4.8,
+      "comments": "Clean Bathroom,I had stayed in this hotel from 13th - 16th February, 2020. I must stay that it was one of the best stay experience in my life. Their rooms are neatly maintained and spacious, service was really fast and good. "
+    },
+    {
+      "id": 7,
+      "hotelId": 5,
+      "reviewer": "Thomas",
+      "rating": 4.7,
+      "comments": "First of all like to thank all the staff and management of Grand Neelams calangute what a amazing service they provided is food was amazing and staff was very helpful I highly recomend any one"
+    },
+    {
+      "id": 6,
+      "hotelId": 4,
+      "reviewer": "Noah",
+      "rating": 4.7,
+      "comments": "Good ambience"
+    }
+  ]
+}
